@@ -6,6 +6,7 @@
     max-width: 700px;
     padding: 30px;
     margin-top: 30px;
+    padding-top: 30px;
     font-family: arial,sans-serif;
 }
 
@@ -30,19 +31,19 @@
     margin-right: 10px;
 }
 
-.Weather .temp{
+ .temp{
     margin-top: 20px;
 }
 
-.Weather .temperature{
+.temperature{
     font-weight: normal;
     font-size: 60px;
     padding-top: 100px;
     
 }
 
-.Weather .units{
+.units{
    position: relative;
-   margin-left: 40%;
+   margin-left: 46%;
    margin-top: -80px;
 }
