@@ -1,0 +1,14 @@
+.WeatherForecast{
+    margin-top: 30px;
+}
+
+.max-temp{
+    margin-right: 5px;
+    font-weight:bold;
+    color: rgb(112, 112, 112);
+}
+
+.min-temp{
+
+    color: rgb(149, 147, 147);
+}
